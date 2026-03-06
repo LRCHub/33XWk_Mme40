@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "虚言症",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-03-06T10:09:00.656227Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "虚言症",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_虚言症_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "虚言症",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_虚言症_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kyogen-shō [虚言症]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/03_Kyogen-shō_[虚言症]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "虚言症",
+      "artist": "Shiina Ringo",
+      "has_synced": false,
+      "path": "select/04_虚言症_Shiina_Ringo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "虚言症",
+      "artist": "shiina ringo",
+      "has_synced": true,
+      "path": "select/05_虚言症_shiina_ringo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "虚言症",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/06_虚言症_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "虚言症",
+      "artist": "椎名林檎 (Shiina Ringo)",
+      "has_synced": true,
+      "path": "select/07_虚言症_椎名林檎_(Shiina_Ringo).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虚言症",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_虚言症_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "虚言症",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_虚言症_椎名_林檎.txt"
+    }
+  ]
+}
